@@ -1,10 +1,9 @@
-
-AquaSmart API
+## AquaSmart API
 
 Description:
 The AquaSmart API serves as the backend infrastructure for the AquaSmart IoT project, revolutionizing smart irrigation practices. Designed to empower users with real-time monitoring capabilities, account management functionalities, and seamless integration of sensor and control devices, this API facilitates intelligent water management for agricultural and urban landscapes alike. Built using Node.js with the Express framework and MongoDB as the primary database, AquaSmart API ensures reliability, scalability, and efficiency in managing irrigation systems.
 
-Key Features:
+## Key Features:
 
 User Authentication: AquaSmart API provides robust user authentication mechanisms, ensuring secure access to the platform's features and data.
 
@@ -16,7 +15,7 @@ Alerting System: The API incorporates an alerting system to notify users of crit
 
 Account Management: AquaSmart API offers intuitive account management functionalities, enabling users to create, update, and delete accounts as needed, while ensuring data privacy and security.
 
-Installation:
+## Installation:
 
 Clone the AquaSmart API repository to your local machine.
 Install project dependencies using the command npm install.
@@ -28,5 +27,6 @@ Available Endpoints:
 /api/devices: Endpoint for managing sensor and control devices.
 /api/data: Endpoint for accessing real-time data from sensors.
 /api/alerts: Endpoint for managing alert notifications.
-Contributing:
+
+## Contributing:
 Contributions to the development of AquaSmart API are welcome. Feel free to submit bug reports, feature requests, or pull requests to help enhance the functionality and reliability of the platform.
